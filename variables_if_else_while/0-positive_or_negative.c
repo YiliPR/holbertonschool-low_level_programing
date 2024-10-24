@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 
 /**
  * main - runing if statements with
@@ -23,7 +24,7 @@ int main(void)
 	}
 	if (n > 0)
 	{
-		printf("is negative"\n);
+		printf("is negative\n");
 	}
 	return (0);
 }
